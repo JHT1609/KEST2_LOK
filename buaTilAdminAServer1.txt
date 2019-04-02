@@ -1,0 +1,11 @@
+Búa til notandann:
+    sudo useradd -m -d /home/admin1 admin1
+
+Gera aðgangsorðið:
+    sudo passwd admin1
+
+Bæta notandanum í grúppuna til þess að hafa sudo leyfi:
+    usermod -a -G sudo admin1
+
+Gefa notandanum rétt shell til þess að geta notað örvar og tab:
+    sudo chsh -s /bin/bash admin1
