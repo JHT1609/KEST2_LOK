@@ -1,0 +1,23 @@
+IT, Alexander Ragnarsson, AleRag
+IT, Andrea Klara Hauksdóttir, AndHau
+Management, Guðmundur Steindórsson, GudSte
+Management, Halldór V. Jónsson, HalJon
+Management, Harpa Hjaltested, HarHja
+Accounting, Hrannar Arason, HraAra
+Accounting, Ingibjörg J Guðlaugsdóttir, IngGud
+Manufacturing, Ísak Leifsson, IsaLei
+Manufacturing,Jóhanna Kristín Hafsteinsdóttir, JohKri 
+Manufacturing, Kristján Svanbergsson, KriSva
+Manufacturing, Lárus Arnar Gunnarsson, LarGun
+Manufacturing, Linda B. Magnúsdóttir, LinMag
+Manufacturing, Rúdólf Björnsson, RudBjo
+Manufacturing, Sigurbjörg Ó. Stefánsdóttir, SigSte
+Manufacturing, Sigrún Alda Jensdóttir, SigJen
+
+
+
+
+
+
+
+
