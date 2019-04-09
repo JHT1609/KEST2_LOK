@@ -1,0 +1,2 @@
+sudo apt isntall isc-dhcp-server
+sudo vi /etc/default/isc-dhcp-server
